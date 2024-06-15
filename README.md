@@ -35,7 +35,7 @@ I was excited to join this team and can't wait to see any coming work with them!
 
 ## Task 2
 
-TO BE UPDATED
+TO BE UPDATED.
 
 
 # Tools/Software:
