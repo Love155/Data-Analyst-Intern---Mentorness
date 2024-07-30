@@ -2,11 +2,6 @@
 # Data Analyst Intern @ Mentorness
 
 
-
-
-
-
- 
 ## Task 1
 
 🔍 Analysis Objective: Make a Reel on Update Statement Modifying existing records in a table using the Update statement.
@@ -39,5 +34,5 @@ SQL, Power Point
 # Files to be uploaded in the repository:
 
   1. Task 1 --> Update Statement By Love.mp4
-  2. Task 2 --> 
+  2. Task 2 --> Corona.csv, corona_virus_analysis.sql, 
 
