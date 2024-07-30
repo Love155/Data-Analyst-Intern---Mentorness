@@ -34,5 +34,5 @@ SQL, Power Point
 # Files to be uploaded in the repository:
 
   1. Task 1 --> Update Statement By Love.mp4
-  2. Task 2 --> Corona.csv, corona_virus_analysis.sql, 
+  2. Task 2 --> Corona.csv, corona_virus_analysis.sql, corona_virus_presentation.pptx
 
