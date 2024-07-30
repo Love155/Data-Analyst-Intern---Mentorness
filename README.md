@@ -35,14 +35,24 @@ I was excited to join this team and can't wait to see any coming work with them!
 
 ## Task 2
 
-TO BE UPDATED SOON...
+💥Excited to share my Mentorness Corona Virus Analysis Project With SQL
+
+🚀 Overview:
+ Delved into a COVID-19 dataset using SQL and Data analysis skills to derive insights into the virus spread.
+
+💡Key Focus:
+ Utilized SQL queries to extract insights from a dataset including geographic location, dates, confirmed cases, deaths and recoveries.
+
+🌎 Impact:
+ Contributed to understanding the pandemic's impact on public health through data driven insights.
+Provided Valuable inputs for decision-making and policy formulation.
 
 
 # Tools/Software:
-SQL, Power Point, 
+SQL, Power Point
 
 # Files to be uploaded in the repository:
 
   1. Task 1 --> Update Statement By Love.mp4
   2. Task 2 --> 
-  3. Task 3 --> 
+
